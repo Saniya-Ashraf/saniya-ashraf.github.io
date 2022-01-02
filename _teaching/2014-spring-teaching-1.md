@@ -1,20 +1,12 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Sardar Bahadur Khan Women University, Department of Computer Science"
+date: 2019-03-03
+location: "Quetta, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Tought undergrad courses to CS department students. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
