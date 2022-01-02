@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Saniya Ashraf. I am currently an AI scientist at [Control Automotive and Robotics Lab](https://carl-buitems.github.io) at [Balochistan University of IT, Engineering and Management Sciences](https://www.buitms.edu.pk). Our current Research Focuses on developing various Robots and state-of-the-art RL and Deep Learning Techniques. 
+I am currently an AI scientist at [Control Automotive and Robotics Lab](https://carl-buitems.github.io) at [Balochistan University of IT, Engineering and Management Sciences](https://www.buitms.edu.pk). Our current Research Focuses on developing various Robots and state-of-the-art RL and Deep Learning Techniques. 
 I have a Masters (thesis) in Computer Science from [Florida State University](https://www.fsu.edu/)
 https://www.fsu.edu/. At FSU, I worked under the supervision of [Dr. Xiuwen Liu] (https://www.cs.fsu.edu/~liux/). I also served as a lecturer at [Sardar Bahadur Khan Women University](https://www.sbkwu.edu.pk/)
 
