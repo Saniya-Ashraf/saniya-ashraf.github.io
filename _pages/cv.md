@@ -14,6 +14,8 @@ Education
 * B.S. in Software Engineering, Balochistan University of IT, Engineering and Management Sciences, 2018
 * M.S. in Computer Science, Florida State University, 2021
 
+<!---
+
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -56,3 +58,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
