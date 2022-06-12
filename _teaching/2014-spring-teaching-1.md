@@ -1,5 +1,6 @@
+---
+CRITICAL THINKING CE8
 
-**CRITICAL THINKING - CE8**
 | Topic | content |
 | --- | --- |
 | Introduction to Arguments | [Arguments.pdf](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/files/8886111/Arguments.pdf)|
