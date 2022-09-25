@@ -13,7 +13,6 @@ For visual programming, and learning the basics use [Scratch](https://www.google
 |**Andriod**|**Gaming**|**C#**|
 |-----------|----------|------|
 |1.[Android Development for Beginners](https://www.google.com/url?q=https%3A%2F%2Fclassroom.udacity.com%2Fcourses%2Fud837&sa=D&sntz=1&usg=AFQjCNFeH-9Vz4lke1PY9N4WbhBUMQ2DKQ)designed for students who are new to programming|1.[GameMaker: Studio Introduction](http://www.google.com/url?q=http%3A%2F%2Fwww.yoyogames.com%2Flearn&sa=D&sntz=1&usg=AFQjCNHOEJmNvoPvyfWu3BhLhML8NhTygw)|[C# Fundamentals for Absolute Beginners](https://www.google.com/url?q=https%3A%2F%2Fmva.microsoft.com%2Fen-us%2Ftraining-courses%2Fc-fundamentals-for-absolute-beginners-16169%3Fl%3DLvld4EQIC_2706218949&sa=D&sntz=1&usg=AFQjCNGLXf0BMQmVPFKZAGJ4bXRwpb-CRw)|
-
 |2.[Developing Android Apps](https://www.google.com/url?q=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fdeveloping-android-apps--ud853&sa=D&sntz=1&usg=AFQjCNH8MAmzG0kGqWywOdi8nLUWoJ8qvw)
 intended for students with at least 1 year of programming experience in Java or another object-oriented programming language| 
 2.[Unity Tutorials](https://www.google.com/url?q=https%3A%2F%2Funity3d.com%2Flearn%2Ftutorials%2Fs%2Finteractive-tutorials&sa=D&sntz=1&usg=AFQjCNF88otz2mGf7QcYETEua4AYPR45jw)||
