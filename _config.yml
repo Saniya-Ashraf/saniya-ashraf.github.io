@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saniya Ashraf"
 title_separator          : "-"
 name                     : &name "Saniya Ashraf"
-description              : &description "Senior AI Scientist at Control Automotive and Robotics Lab, BUITEMS"
+description              : &description "Lecturer,Department of Software Engineering, BUITEMS"
 url                      : https://saniya-ashraf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saniya-ashraf.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Saniya Ashraf"
   avatar           : "profile.png"
-  bio              : "Senior AI Scientist | Fulbright Scholar | MS(thesis) Computer Science | BS Software Engineering"
+  bio              : "Lecturer | Fulbright Alumna | MS Computer Science | BS Software Engineering"
   location         : "Quetta, Pakistan"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=inZQdVIAAAAJ&hl=en"
+  googlescholar    : 
   email            : "saniya.ashraf@buitms.edu.pk"
   researchgate     :  
   uri              :
