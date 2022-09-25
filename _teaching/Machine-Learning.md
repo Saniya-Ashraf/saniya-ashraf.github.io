@@ -39,7 +39,9 @@ Reference Book(s):
 | 26/09/2022 (Week 2) |  | Linear Regression|||
 | 
 
-
+**Updates**
+*Office Hours will be available once the timetable is more stable.
+*meanwhile for questions or scheduling a meeting, please email.
 
 
 
