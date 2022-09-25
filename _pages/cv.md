@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
@@ -38,16 +37,27 @@ Work experience
 Honors and Awards
 ======
 *Foreign Fulbright Scholarship, FSU, Florida, USA 2019- 2021
+
 *Delta Kappa Gamma World Fellowship, Florida, USA 2019, 2020
+
 *Distinction— Gold Medal for first position in BS-Software Engineering, BUITEMS, Pakistan, 2018
+
 *Dean’s List, FGCU, Florida, 2017
+
 *Global UGRAD Exchange Program, 2017
+
 *Quantaxis award for Startup, Innovation Summit Balochistan 2018
+
 *Balochistan Education Endowment Fund Scholarship: 3rd position In Engineering in Balochistan, 2016
+
 *Honorable Mention in Honors, Scholars and Fellows Excellence in the Visual Arts awards, FSU, 2020
+
 *1st place ’Inspire, Engage, and advance Women in Engineering Poster *Competition’,WIE/IEEE Pakistan, 2016
+
 *2st place ’Environmental Art Exhibition’, Pakistan, 2014
+
 *1st place ’Water for Life Essay Competition’, Pakistan, 2014
+
 *1st place ’Earth Day Poster Competition’, 2012
 
 Projects
