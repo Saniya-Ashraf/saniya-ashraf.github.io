@@ -15,7 +15,7 @@ For visual programming, and learning the basics use [Scratch](https://www.google
 |1.[Android Development for Beginners](https://www.google.com/url?q=https%3A%2F%2Fclassroom.udacity.com%2Fcourses%2Fud837&sa=D&sntz=1&usg=AFQjCNFeH-9Vz4lke1PY9N4WbhBUMQ2DKQ)
 designed for students who are new to programming
 2.[Developing Android Apps](https://www.google.com/url?q=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fdeveloping-android-apps--ud853&sa=D&sntz=1&usg=AFQjCNH8MAmzG0kGqWywOdi8nLUWoJ8qvw)
-intended for students with at least 1 year of programming experience in Java or another object-oriented programming language 
+intended for students with at least 1 year of programming experience in Java or another object-oriented programming language| 
 |1.[GameMaker: Studio Introduction](http://www.google.com/url?q=http%3A%2F%2Fwww.yoyogames.com%2Flearn&sa=D&sntz=1&usg=AFQjCNHOEJmNvoPvyfWu3BhLhML8NhTygw)
 2.[Unity Tutorials](https://www.google.com/url?q=https%3A%2F%2Funity3d.com%2Flearn%2Ftutorials%2Fs%2Finteractive-tutorials&sa=D&sntz=1&usg=AFQjCNF88otz2mGf7QcYETEua4AYPR45jw)
 3.[Developing Xbox One Applications](https://www.google.com/url?q=https%3A%2F%2Fmva.microsoft.com%2Fen-US%2Ftraining-courses%2Fdeveloping-xbox-one-applications-16860%3Fl%3D45LGROf9C_7206218965&sa=D&sntz=1&usg=AFQjCNE_7IPCyAscphV882YJCCvC2MDCOg)
