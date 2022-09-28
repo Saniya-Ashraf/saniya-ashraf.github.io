@@ -2,7 +2,7 @@
 title: "Machine Learning"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2021-fall-power-plant
+permalink: /teaching/2022-fall-Machine-learning
 venue: "BUITEMS, Department of Software Engineering and Department of Computer Engineering"
 date: 2022-09-19
 location: "Quetta, Pakistan"
@@ -35,7 +35,7 @@ Reference Book(s):
 
 | **Date**   | **Lecture No. (Download Link)**                                                                                      | **Topic**                            |**Assignment**| **supplementary content**|
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------|--------------------------|
-| 19/09/2022 (Week 1) | [Lecture 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/ML/ML%20Lecture%201%20%20Introduction%20to%20Machine%20Learning.pdf)) | Introduction to Machine Learning |[Homework 1](https://drive.google.com/file/d/1Zr9Izzyu0iYL_s4SLeKywcfmnMPou2XC/view?usp=sharing)|[intro to ML, Google](https://developers.google.com/machine-learning/intro-to-ml)|
+| 19/09/2022 (Week 1) | [Lecture 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/ML/ML%20Lecture%201%20%20Introduction%20to%20Machine%20Learning.pdf) | Introduction to Machine Learning |[Homework 1](https://drive.google.com/file/d/1Zr9Izzyu0iYL_s4SLeKywcfmnMPou2XC/view?usp=sharing)|[intro to ML, Google](https://developers.google.com/machine-learning/intro-to-ml)|
 | 28/09/2022 (Week 2) | [Lecture 2](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/ML/ML%20lecture%20notes%201%202022-09-28%2017_52_03.pdf) | Linear Regression|[numpy](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=numpy_tf2-colab&hl=en) [pandas](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=pandas_tf2-colab&hl=en)|[Stanford YT video](https://www.youtube.com/watch?v=4b4MUYve_U8),[Google - Linear Regression](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression) |
 | 
 
