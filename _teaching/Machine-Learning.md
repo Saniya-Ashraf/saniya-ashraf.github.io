@@ -43,7 +43,10 @@ Reference Book(s):
 | 24/10/2022 (Week 6)| [Lecture 6](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/ML/Regularization%20and%20SVMS.pdf) [Bias/ Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) | Lasso Regression, Ridge Regression, Logistic Regression, Linear SVMs |Quiz in Lab class|[Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8), Also please refer the notes for Linear Regression, [Support Vector Machines](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47), [Bias/ Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)|
 | 31/10/2022 (Week 7)| Lecture 7 | Kernels for SVM, Decision Trees ||[kfold vs leave-one-out](https://www.baeldung.com/cs/cross-validation-k-fold-loo)|
 |MIDTERM|MIDTERM|MIDTERM|MIDTERM|MIDTERM|
-
+| 7/11/2022 (Week 8)| Lecture 8 |Introduction to Neural Networks|||
+| 14/11/2022 (Week 9)| Lecture 9 | Back propogation and Activation functions|||
+| 21/11/2022 (Week 10)| Lecture 10 | XGBoost and Ensemble|||
+| 28/11/2022 (Week 11)| Lecture 10 | Unsupervised Learning|||
 
 **Updates**
 *Office Hours on friday 11am - 1.30am and 3pm to 5pm.
