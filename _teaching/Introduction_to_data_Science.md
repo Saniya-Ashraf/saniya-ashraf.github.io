@@ -51,6 +51,11 @@ Lectures
 
 **Updates**
 
+Sessional Division
+*5 marks for Quizes.
+*10 marks Professional well-maintained Github Repository with self-explanatory code and readme files.
+*10 marks for assignments. 
+
 
 
 *Office Hours on Tuesday 11:45 am - 1 pm and 3pm to 5pm (on prior appointment).
