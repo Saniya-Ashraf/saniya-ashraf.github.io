@@ -36,20 +36,21 @@ Lectures
 | (Week 2) | Overview of Python for data Science
 | (Week 3) | Data Types and Sources
 | (Week 4) | Data Cleaning and Preprocessing
-| (Week 5) | Exploratory Data Analysis (EDA)
+| (Week 5) | Exploratory Data Analysis (EDA) **QUIZ
 | (Week 6) | Types of Charts and Graphs
 | (Week 7) | Tools for Data Visualization
 | (Week 8) | Statistical Inference 
-| (Week 9) | Supervised Learning 
+| (Week 9) | Supervised Learning **QUIZ
 | (Week 10) | Regression Analysis
 | (Week 11) | Classification Analysis
 | (Week 12) | Decision Trees and Random Forests
-| (Week 13) | Unsupervised Learning : Clustering Analysis
+| (Week 13) | Unsupervised Learning : Clustering Analysis **QUIZ
 | (Week 14) | Unsupervised Learning : Dimensionality Reduction
-| (Week 15) | Big Data and dabases for Data Science
-| (Week 15) | Ethics in Applied Data Science
+| (Week 15) | Big Data and Databases for Data Science
+| (Week 16) | Ethics in Applied Data Science **QUIZ
 
 **Updates**
+
 
 
 *Office Hours on Tuesday 11:45 am - 1 pm and 3pm to 5pm (on prior appointment).
