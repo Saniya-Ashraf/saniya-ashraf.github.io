@@ -44,7 +44,7 @@ Reference Book(s):
 | (Week 12) | Decision Trees and Random Forests
 | (Week 13) | Unsupervised Learning : Clustering Analysis
 | (Week 14) | Unsupervised Learning : Dimensionality Reduction
-| (Week 15) | Big Data
+| (Week 15) | Big Data and dabases for Data Science
 | (Week 15) | Ethics in Applied Data Science
 
 **Updates**
