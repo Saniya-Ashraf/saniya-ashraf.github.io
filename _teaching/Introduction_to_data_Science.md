@@ -24,9 +24,11 @@ The course material and lectures will be posted on this site and students will b
 
 Lectures
 ======
-Reference Book(s): 
-1."Data Science from Scratch" by Joel Grus
-2."Python Data Science Handbook" by Jake VanderPlas:
+| **Reference Book(s)** |
+|----------------------|
+|1. [Python for Data Analysis by Wes McKinney (O’Reilly)](http://bit.ly/adswpy-wesmckinney)
+|2."Data Science from Scratch" by Joel Grus
+|3."Python Data Science Handbook" by Jake VanderPlas
 
 | **Date**   |**Topic**  |
 |------------|-----------|
