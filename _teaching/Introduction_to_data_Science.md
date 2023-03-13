@@ -32,7 +32,7 @@ Lectures
 
 | **Date**   |**Topic**  |
 |------------|-----------|
-| (Week 1) | What is Data Science? Data Science Methodology
+| (Week 1) | [What is Data Science? Data Science Methodology](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/What%20is%20Data%20Science.pdf)
 | (Week 2) | Overview of Python for data Science
 | (Week 3) | Data Types and Sources
 | (Week 4) | Data Cleaning and Preprocessing
