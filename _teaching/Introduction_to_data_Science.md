@@ -2,7 +2,7 @@
 title: "Introduction Data Science"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2023-Spring-Machine-learning
+permalink: /teaching/2023-Spring-IDS
 venue: "BUITEMS, Department of Software Engineering and Department of Computer Engineering"
 date: 2023-04-06
 location: "Quetta, Pakistan"
