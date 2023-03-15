@@ -53,13 +53,15 @@ Lectures
 
 **Updates**
 
-Sessional Division
+_____________________________________________________________________________________________________________
+**Sessional Division**
 *5 marks for Quizes.
 *10 marks Professional well-maintained Github Repository with self-explanatory code and readme files.
 *10 marks for assignments. 
 
-
-
+_____________________________________________________________________________________________________________
+github first commit due on March 19th
+_____________________________________________________________________________________________________________
 *Office Hours on Tuesday 11:45 am - 1 pm and 3pm to 5pm (on prior appointment).
 *meanwhile for questions or scheduling a meeting in case these don't work for you, please email.
 
