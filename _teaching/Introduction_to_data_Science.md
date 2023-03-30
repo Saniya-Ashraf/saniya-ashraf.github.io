@@ -60,7 +60,8 @@ ________________________________________________________________________________
 *10 marks for assignments. 
 
 _____________________________________________________________________________________________________________
-github first commit due on March 19th
+github first commit due on March 19th (CE) April 7th (SE)
+
 _____________________________________________________________________________________________________________
 *Office Hours on Tuesday 11:45 am - 1 pm and 3pm to 5pm (on prior appointment).
 *meanwhile for questions or scheduling a meeting in case these don't work for you, please email.
