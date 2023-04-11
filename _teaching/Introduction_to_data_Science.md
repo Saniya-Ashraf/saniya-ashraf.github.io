@@ -36,7 +36,7 @@ Lectures
 |------------|-----------|------------------|
 | (Week 1) | What is Data Science? Data Science Methodology | [Lecture 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/What%20is%20Data%20Science.pdf)|
 | (Week 2) | Overview of Python for data Science | [Python Introduction](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/python-1.pdf), [Numpy](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/numpy.pdf), [Assignment 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/assignment1.zip)|
-| (Week 3) | Data Types and Sources ||
+| (Week 3) | Data Types and Sources |[Series and Dataframes](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/w3.zip)|
 | (Week 4) | Data Cleaning and Preprocessing ||
 | (Week 5) | Exploratory Data Analysis (EDA) | **QUIZ |
 | (Week 6) | Types of Charts and Graphs
