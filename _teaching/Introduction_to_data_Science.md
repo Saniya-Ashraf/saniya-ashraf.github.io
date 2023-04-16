@@ -39,20 +39,20 @@ Lectures
 |------------|-----------|------------------|--------------------------|
 | (Week 1) | What is Data Science? Data Science Methodology | [Lecture 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/What%20is%20Data%20Science.pdf)||
 | (Week 2) | Overview of Python for data Science | [Python Introduction](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/python-1.pdf), [Numpy](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/Numpy_ed.ipynb), [Python](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/Python.ipynb) [Series and Dataframes](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/w3.zip) - Book Chapter no. 2 |[Assignment 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/assignment1.zip)|
-| (Week 3) | Data Types and Sources |[Types of Data](https://towardsdatascience.com/types-of-data-you-need-to-know-as-a-data-scientist-8f432154b5a5)|
+| (Week 3) | Data Types and Sources |[Types of Data](https://towardsdatascience.com/types-of-data-you-need-to-know-as-a-data-scientist-8f432154b5a5)|**QUIZ** |
 | (Week 4) | Data Cleaning and Preprocessing ||
-| (Week 5) | Exploratory Data Analysis (EDA) || **QUIZ |
+| (Week 5) | Exploratory Data Analysis (EDA) || 
 | (Week 6) | Types of Charts and Graphs
-| (Week 7) | Tools for Data Visualization
+| (Week 7) | Tools for Data Visualization|**QUIZ**
 | (Week 8) | Statistical Inference 
-| (Week 9) | Supervised Learning||**QUIZ
+| (Week 9) | Supervised Learning|**QUIZ**
 | (Week 10) | Regression Analysis
 | (Week 11) | Classification Analysis
 | (Week 12) | Decision Trees and Random Forests
-| (Week 13) | Unsupervised Learning : Clustering Analysis ||**QUIZ
+| (Week 13) | Unsupervised Learning : Clustering Analysis ||**QUIZ**
 | (Week 14) | Unsupervised Learning : Dimensionality Reduction
 | (Week 15) | Big Data and Databases for Data Science
-| (Week 16) | Ethics in Applied Data Science|| **QUIZ
+| (Week 16) | Ethics in Applied Data Science|| **QUIZ**
 
 **Updates**
 
