@@ -23,19 +23,21 @@ The course material and lectures will be posted on this site and students will b
 
 
 
-| **Reference Book(s)** |
+| **Reference Book(** |
 |----------------------|
-|1. [Python for Data Analysis by Wes McKinney (O’Reilly)](http://bit.ly/adswpy-wesmckinney)
-|2."Data Science from Scratch" by Joel Grus
+|1. "Data Science from Scratch" by Joel Grus
+|**supplementary books**|
+|----------------------|
+|2.[Python for Data Analysis by Wes McKinney (O’Reilly)
 |3."Python Data Science Handbook" by Jake VanderPlas
 
 Lectures
 ======
 
-| **Date**   |**Topic**  |**lecture links**|**Assignments and Quizes""|
+| **Date**   |**Topic**  |**lecture links**|**Assignments and Quizes**|
 |------------|-----------|------------------|--------------------------|
 | (Week 1) | What is Data Science? Data Science Methodology | [Lecture 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/What%20is%20Data%20Science.pdf)||
-| (Week 2) | Overview of Python for data Science | [Python Introduction](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/python-1.pdf), [Numpy](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/numpy.pdf), [Series and Dataframes](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/w3.zip) |[Assignment 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/assignment1.zip)|
+| (Week 2) | Overview of Python for data Science | [Python Introduction](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/python-1.pdf), [Numpy](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/Numpy_ed.ipynb), [Python](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/Python.ipynb) [Series and Dataframes](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/raw/master/IDS/w3.zip) - Book Chapter no. 2 |[Assignment 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/IDS/assignment1.zip)|
 | (Week 3) | Data Types and Sources |[Types of Data](https://towardsdatascience.com/types-of-data-you-need-to-know-as-a-data-scientist-8f432154b5a5)|
 | (Week 4) | Data Cleaning and Preprocessing ||
 | (Week 5) | Exploratory Data Analysis (EDA) || **QUIZ |
