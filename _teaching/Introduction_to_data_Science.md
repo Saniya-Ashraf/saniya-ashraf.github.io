@@ -43,9 +43,9 @@ Lectures
 | (Week 4) | Data Cleaning and Preprocessing ||
 | (Week 5) | Exploratory Data Analysis (EDA) || 
 | (Week 6) | Types of Charts and Graphs
-| (Week 7) | Tools for Data Visualization|**QUIZ**
+| (Week 7) | Tools for Data Visualization||**QUIZ**
 | (Week 8) | Statistical Inference 
-| (Week 9) | Supervised Learning|**QUIZ**
+| (Week 9) | Supervised Learning||**QUIZ**
 | (Week 10) | Regression Analysis
 | (Week 11) | Classification Analysis
 | (Week 12) | Decision Trees and Random Forests
