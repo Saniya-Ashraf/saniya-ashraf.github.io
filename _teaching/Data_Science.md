@@ -15,7 +15,7 @@ Introduction to Data Science
 ======
 -->
 
-Welcome to Introduction to Data Science! 
+Welcome to Data Science! 
 The course material and lectures will be posted on this site and students will be notified accordingly. 
 
 
