@@ -1,8 +1,8 @@
 ---
-title: "Introduction Data Science"
+title: "Data Science"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2023-Spring-IDS
+permalink: /teaching/2023-Spring-DS
 venue: "BUITEMS, Department of Software Engineering and Department of Computer Engineering"
 date: 2023-04-06
 location: "Quetta, Pakistan"
@@ -50,9 +50,9 @@ Lectures
 | (Week 11) | Classification Analysis|[binary classification with metrics](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/day59-classification-metrics/classification-metrics-binary.ipynb) [Multiclassification on IRIS](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/day59-classification-metrics/classification-metrics-multi-iris1.ipynb) [Multiclassification on MNIST(image dataset)](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/day59-classification-metrics/classification-metrics-multi-mnist1.ipynb)|
 | (Week 12) | Decision Trees and Random Forest |[Decision Trees and Random Forest understanding](https://developers.google.com/machine-learning/decision-forests) [Random Forest notebook](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/day65-random-forest/random_forest_demo.ipynb) [Dataset](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/day65-random-forest/heart.csv) [Feature Importance](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/day65-random-forest/feature-importance-in-sklearn.ipynb)|
 | (Week 13) | Unsupervised Learning : Clustering Analysis |[Clustering introduction](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a) [Kmeans notebook](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/kmeans/kmeans-clustering-demo.ipynb) [Dataset](https://github.com/Saniya-Ashraf/100-days-of-machine-learning/blob/main/kmeans/student_clustering.csv)|**QUIZ**
-| (Week 14) | Unsupervised Learning : Dimensionality Reduction||
-| (Week 15) | Big Data and Databases for Data Science||
-| (Week 16) | Ethics in Applied Data Science|[Ethics and its importance](https://towardsdatascience.com/the-ethics-of-data-science-55bcba9b4ecb)| **QUIZ**
+| (Week 14) | Unsupervised Learning : Dimensionality Reduction|[Dimensionality reduction](https://machinelearningmastery.com/dimensionality-reduction-for-machine-learning/)|
+| (Week 15) | Big Data and Databases for Data Science|---Skip--|
+| (Week 16) | Ethics in Applied Data Science|[Ethics and its importance](https://towardsdatascience.com/the-ethics-of-data-science-55bcba9b4ecb), [fairness and ethics practice by Google](https://developers.google.com/machine-learning/practica/fairness-indicators)| **QUIZ**
 
 **Updates**
 
