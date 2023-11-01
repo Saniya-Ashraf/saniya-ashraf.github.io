@@ -1,100 +1,74 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+# CV
 
 
-Education
-======
-* M.S. in Computer Science, Florida State University, 2021
-* B.S. in Software Engineering, Balochistan University of IT, Engineering and Management Sciences, 2018
+## Experience
 
+### MVSol Realtors Canada
+- **Role**: Deep Learning Engineer
+- **Duration**: February 2023 - Ongoing
 
+### Baluchistan University of IT, Engineering and Management Sciences (BUITEMS)
+- **Role**: Permanent Lecturer (BPS-18) - Software Engineering Department
+- **Duration**: July 2022 - Ongoing
+- **Projects**: 
+  - Cerebral Insight- A Neuroimaging Marvel with U-Net and Attention-Guided Tumor Identification
+  - Unleashing AI's Potential In Video Games
+  - Intelligent Registration and Security System - Industry Project
+  - Integrated Surveillance and Automated Maintenance Solution
+  - Comparative Analysis of Vulnerabilities in Various Mobile Application Categories Using Reverse Engineering and Machine Learning
 
+### Control Automotive and Robotics Lab - BUITEMS
+- **Role**: Research Associate — Senior AI Scientist
+- **Duration**: November 2021 - July 2022
 
-Work experience
-======
-* July 2022 – Current: Lecturer
-  * Balochistan University of IT, Engineering and Management Sciences (BUITEMS), Pakistan
+### Florida State University
+- **Role**: Graduate Researcher - Computer Vision Group/ Dr. Xiuwen Liu
+- **Duration**: Aug 2020 – July 2021
 
-* November 2021 - July 2022: Senior AI Scientist
-  * Control Automotive and Robotics Lab - BUITEMS, Pakistan
+### Sardar Bahadur Khan Women University
+- **Role**: Visiting Lecturer — Department Of Computer Science
+- **Duration**: Sep 2018 – July 2019
 
+### UR's Pvt. Ltd.
+- **Role**: Intern - IT Department
+- **Duration**: 2018
 
-* Aug 2020 – July 2021: Graduate Researcher
-  * Florida State University, United States
+## Education
 
-* Sep 2018 – July 2019: Lecturer
-  * Sardar Bahadur Khan Women University, Pakistan
+- **Florida State University** — MS(thesis) Computer Science (Fulbright)
+  - GPA: 3.82
+- **BUITEMS Pakistan** — BS Software Engineering
+  - GPA: 3.83
+- **Florida Gulf Coast University** — Global UGRAD Exchange Student
+  - GPA: 3.93
 
-* 2014 –  2019: Freelancer
-  * FIVERR
- 
-Honors and Awards
-======
-*Foreign Fulbright Scholarship, FSU, Florida, USA 2019- 2021
+## Additional Courses/specializations
 
-*Delta Kappa Gamma World Fellowship, Florida, USA 2019, 2020
+- Machine Learning Specialization — DeepLearning.AI/Stanford/Coursera 2022
+- IBM Machine Learning Professional Certificate — IBM/ Coursera 2022
+- First Step Korean — Yonsei University / Coursera 2023
 
-*Distinction— Gold Medal for first position in BS-Software Engineering, BUITEMS, Pakistan, 2018
+## Honors and Awards
 
-*Dean’s List, FGCU, Florida, 2017
+- Honorable Speaker award, Exchange opportunities and advantages for growth mindset, Quetta, Pakistan 2023
+- Faculty Advisor,Machine Learning Society, Quetta, Pakistan 2023
+- MasterClass on promoting Critical Thinking through STEM
+- Convener/ lead,Class Counselors Committee, Quetta, Pakistan 2023
+- Secretary for Women Engineers, Pakistan Engineering Council, Quetta, Pakistan 2022
+- Foreign Fulbright Scholarship, FSU, Florida, USA 2019 — 2021
+- Delta Kappa Gamma World Fellowship, Florida, USA 2019, 2020
+- Distinction— Gold Medal for first position in BS-Software Engineering, BUITEMS, Pakistan, 2018
+- Dean's List, FGCU, Florida, 2017
 
-*Global UGRAD Exchange Program, 2017
+## Projects
 
-*Quantaxis award for Startup, Innovation Summit Balochistan 2018
+- Compiler Construction | C, yacc, Language Models, Computer Theory Jan 2021 – Apr 2021
+- Modifying jEdit | Java, Open-Source Systems, Collaboration May 2020 – Jul 2020
+- AlphaFold Study/Reverse Engineering | DNNs, Protein Structure Dec 2019 – Jul 2020
+- Comparative Study of NLP Transformer Models | Deep Learning, Language Models Apr 2020 – May 2020
+- Study of Multi-Agent Path-Planning Algorithms | Trajectory Planning Apr 2020 – May 2020
 
-*Balochistan Education Endowment Fund Scholarship: 3rd position In Engineering in Balochistan, 2016
+## Volunteer Work/ Community Service
 
-*Honorable Mention in Honors, Scholars and Fellows Excellence in the Visual Arts awards, FSU, 2020
-
-*1st place ’Inspire, Engage, and advance Women in Engineering Poster *Competition’,WIE/IEEE Pakistan, 2016
-
-*2st place ’Environmental Art Exhibition’, Pakistan, 2014
-
-*1st place ’Water for Life Essay Competition’, Pakistan, 2014
-
-*1st place ’Earth Day Poster Competition’, 2012
-
-Projects
-======
-* Automatic Speech Recognition | Librosa, DNNs, SKlearn, | November 2021 - July 2022
-
-* Video Stabilization using RAFT | April 2022 - July 2022
-
- * Compiler Construction | C, yacc, Language Models, Computer theory | January 2021 – April 2021
-    * • Constructed a working compiler over a custom regular language
-
-* Modifying jEdit | Java, Open-Source Systems, Collaboration | May 2020 – july 2020
-  * • Made required changes (addition, deletion and modification of functionality) in an open-source system - jEdit, while working together with a team to ensure the correctness of the system all the time
-  
-* AlphaFold study/Reverse engineering | DNNs, Protein Structure | December 2019 – July 2020
-  * • Studied in depth the working of Alphafold, which predicts protein Structures and worked towards creating a similar algorithm
-
-* Comparative study of NLP transformer models | Deep Learning, Language Models | April 2020 – May 2020
- * • Implemented and performed a comparative study of Bert and XLnet over the IMDB dataset.
-
-* Comparative study of multi-agent Path-planning Algorithms | trajectory planning April 2020 – May 2020
-  * • implementation and performance of a comparative study of multi-agent path planning algorithms in a 2D environment including Conflict-based search, MAPP, synchronous prioritized planning, and asynchronous decentralized prioritized planning to train multiple agents to reach the goal optimally without collision.
-
-* Bachelors Thesis: Web Based Password Security Algorithm | PHP, Cryptography August 2017 – April 2018
-  * • created a novel password security algorithm with SQLI injection prevention and an  xtended the XTEA algorithm to create a novel encryption algorithm with irreversible hash generation
-  
-  
-Service and leadership
-======
-* Career Counseling SBK Women University, Pakistan, 2018-2019
-* Project Mentoring SBK Women University, Pakistan 2018-Current
-* speaker and mentor: Scholarship, exchange and Education Opportunities in the world, 2018
-* Speaker: Ideas That Changed the World, BUITEMS, Pakistan, 2017
-* Founder/Leader/Organizer: Started the Scratch Program and Organized Individual Fund aisers, Pakistan, 2017
-* Wall painting and Talk on Environmental preservation Pakistan Online Volunteer group, Pakistan, 2017
-* Teacher: Excellence School and Academy, Workshop on Basic Computer (NISA), Pakistan, 2016
-* Teacher: Excellence School and Academy, Workshop on Graphic Design (NISA), Pakistan, 2016
-* Tutor: English, Math, Physics, Programming, 2011-2018* Currently signed in to 43 different slack teams
-
--->
+- Career Counseling SBK Women University, Pakistan, 2018-Current
+- Project Mentoring SBK Women University, Pakistan 2018-Current
