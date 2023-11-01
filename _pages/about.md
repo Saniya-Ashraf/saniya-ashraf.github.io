@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## 🎓 About Me
-Hello there! 👋 I'm Saniya Ashraf, a Deep Learning Engineer by day at MVSol Realtors Canada and a Permanent Lecturer in Software Engineering at BUITEMS by, well, also day—but a different part of the day. Juggling roles? Absolutely, and loving every bit of it!
+Hello there! 👋 I'm Saniya Ashraf, a Deep Learning Engineer and Lecturer by, well, also day—but a different part of the day. Juggling roles? Absolutely, and loving every bit of it!
 
 ## 🛡 Who Am I?
 I'm an educator, a researcher, an engineer, an artist, a freelancer all rolled into one. My journey began at BUITEMS in Pakistan, where I majored in Software Engineering. Then, the Fulbright Scholarship whisked me away to Florida State University. There, I dipped my toes into Computer Vision and emerged with an MS in Computer Science. Not to brag, but I did make it to the Dean's list. Okay, maybe bragging a little.
