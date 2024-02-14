@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saniya Ashraf"
 title_separator          : "-"
 name                     : &name "Saniya Ashraf"
-description              : &description "Lecturer,Department of Software Engineering, BUITEMS"
+description              : &description "Lecturer,Department of Computer Science, NUST"
 url                      : https://saniya-ashraf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saniya-ashraf.github.io"
@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "saniya.ashraf@buitms.edu.pk"
+  email            : "sa19bc@fsu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
