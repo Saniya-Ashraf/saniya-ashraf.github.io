@@ -1,5 +1,5 @@
 ---
-title: "Object oriented Programming CS-212 "
+title: "Object oriented Programming"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-Spring-oop
@@ -7,7 +7,7 @@ venue: "National University of Science and Technology"
 location: "Quetta, Pakistan"
 ---
 
-2 + 1 Credit Hours - Fall 2022
+3 + 1 Credit Hours - Spring 2024
 
 <!---
 Object oriented Programming CS-212
