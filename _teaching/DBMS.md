@@ -3,8 +3,9 @@ title: "Database Systems"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-Spring-DBMS
-venue: "National University of Science and Technology"
+venue: "National University of Science and Technology - Department of Computer Science"
 location: "Quetta, Pakistan"
+date: 2024-02-05
 ---
 
 3 + 1 Credit Hours - Spring 2024
