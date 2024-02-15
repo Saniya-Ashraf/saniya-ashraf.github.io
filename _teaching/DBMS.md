@@ -1,5 +1,5 @@
 ---
-title: "Database Systems CS-220"
+title: "Database Systems"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-Spring-DBMS
