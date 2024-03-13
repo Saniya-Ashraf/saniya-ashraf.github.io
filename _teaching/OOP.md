@@ -36,11 +36,11 @@ Reference Book(s):
 | **Date**   | **Lecture No. (Download Link)**                                                                                      | **Topic**                            |**Assignment**| **supplementary content**|
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------|--------------------------|
 | 12/02/2024 (Week 1) | [Lecture 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/OOP/Object%20Oriented%20programming%20-%201.pdf) |Introduction  to OOP concepts.|[Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)|[C++ refresher](https://www.youtube.com/watch?v=oi1ffu6lBXE&pp=ygUUb29wIGludHJvZHVjdGlvbiBjcHA%3D), [C++ by Google](https://developers.google.com/edu/c++)|
-| 19/02/2024 (Week 2) | [Lecture 2](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/OOP/Object%20Oriented%20programming%20-%202.pdf) |Objects in OOP|**Quiz on March 1st**|Bruce Eckel - Thinking in C++_ Introduction to Standard C++, Chapter 1| 
-| 26/02/2024 (Week 3) | [Lecture 3] ||||
-| 4/03/2024 (Week 4)  | [Lecture 4] ||||
-| 11/03/2024 (Week 5) | [Lecture 5] ||||
-<!---| 18/03/2024 (Week 6)|[Lecture 6] ||||
+| 19/02/2024 (Week 2) | [Lecture 2](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/OOP/Object%20Oriented%20programming%20-%202.pdf) |Objects and classes in OOP|**Quiz on March 1st**|Bruce Eckel - Thinking in C++_ Introduction to Standard C++, Chapter 1| 
+| 26/02/2024 (Week 3) | [Lecture 3](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/OOP/Object%20Oriented%20programming%20-%203.pdf) |Setters and getters|||
+| 4/03/2024 (Week 4)  | [Lecture 4] **Robert Lafore - Object-oriented programming in C++, chapter 6, pages 227-243** |Constructors|||
+| 11/03/2024 (Week 5) | [Lecture 5](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/OOP/Object%20Oriented%20programming%20-%206.pdf) |Operator Overloading|||
+<!---| 18/03/2024 (Week 6)|[Lecture 6] |||Robert Lafore - Object-oriented programming in C++, chapter 8, page 319|
 | 25/03/2024 (Week 7)| Lecture 7 ||||
 | 25/03/2024 (Week 8)| Lecture 8 ||||
 | 25/03/2024 (Week 9)| Lecture 9 ||||
