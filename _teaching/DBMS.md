@@ -54,9 +54,9 @@ Lectures
 | 12/02/2024 (Week 1) | [Lecture 1](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/DBMS/Database%20Systems%20CS-220%20-%20Lecture%201.pdf) |Introduction to Database System Concepts|Design a Database where customer is unique. **Assignment due wed, 28 feb 2024** |[Intro to Databases - week 1-META](https://www.coursera.org/learn/introduction-to-databases/home/week/1) | 
 | 19/02/2024 (Week 2) | [Lecture 2](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/DBMS/Database%20Systems%20CS-220%20-%20Lecture%202.pdf) |SQL Data types, DDL Commands|**Quiz on Monday, March 4, 2024** for materials to prepare from please refer to google classroom |[CRUD - week 2-META](https://www.coursera.org/learn/introduction-to-databases/home/week/2)| 
 | 26/02/2024 (Week 3) | [Lecture 3](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/DBMS/sql_cheetsheet.pdf)|SQL Operators and Filtering Data| [week 3 videos-META](https://www.coursera.org/learn/introduction-to-databases/home/week/3)|
-| 4/03/2024 (Week 4)  | [Lecture 4](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/DBMS/Database%20Systems%20CS-220%20-%20Lecture%204.pdf)|Designing Database Schema||[Part 1-META](https://www.coursera.org/learn/introduction-to-databases/home/week/4)|
-| 11/03/2024 (Week 5) | [Lecture 5]|Relational Database Design||[Part 2-META](https://www.coursera.org/learn/introduction-to-databases/home/week/4)|
-|18/03/2024 (Week 6)|[Lecture 6] |Normalization||[Part 3-META](https://www.coursera.org/learn/introduction-to-databases/home/week/4)|
+| 4/03/2024 (Week 4)  | [Lecture 4](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/DBMS/Database%20Systems%20CS-220%20-%20Lecture%204.pdf)|Designing Database Schema and Data modeling|Assignment due **Monday** March 18, 2024, |[Part 1-META](https://www.coursera.org/learn/introduction-to-databases/home/week/4)|
+| 11/03/2024 (Week 5) | [Lecture 5](https://github.com/Saniya-Ashraf/saniya-ashraf.github.io/blob/master/DBMS/Database%20Systems%20CS-220%20-%20Lecture%205.pdf)|Retrieving data with group by, Aggregation|||
+|18/03/2024 (Week 6)|[Lecture 6] |Joins in Database||[Part 3-META](https://www.coursera.org/learn/introduction-to-databases/home/week/4)|
 <!---| 25/03/2024 (Week 7)| Lecture 7 ||||
 | 25/03/2024 (Week 8)| Lecture 8 ||||
 | 25/03/2024 (Week 9)| Lecture 9 ||||
